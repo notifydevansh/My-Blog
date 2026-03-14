@@ -1,25 +1,26 @@
 ---
-title: Devansh Rana
+title: Devansh this side...
 ---
 
 Hey, I'm Devansh 👋
 
-I'm a curious person from India writing about life, ideas, and things I'm figuring out as I go.
+I'm someone who likes to talk to people but hate social media. Ironic. I know.
 
-This is my little corner of the internet — no algorithm, no noise. Just honest writing.
+This website is a culmination of everything me related.
+
+Read On.
 
 ---
 
 ## Writing
 
-Browse my essays and articles or explore everything using the search above.
+More writings will come up on this. That is when I am going to change this.
 
 ---
 
-## Now
+## If you care to know what I am currently doing.
 
-I'm currently working on writing more consistently and sharing what I learn along the way.
-helloo
+Currently Reading: [[Never Split The Difference - Chris Voss]]
 
 ---
 
