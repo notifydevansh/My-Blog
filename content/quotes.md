@@ -2,7 +2,7 @@
 title: Quotes
 ---
 
-Lines that stuck with me. From books, people, conversations, or things I stumbled upon.
+Lines that stuck with me.
 
 ---
 
@@ -21,9 +21,8 @@ Lines that stuck with me. From books, people, conversations, or things I stumble
 
 ---
 
-> "Keep adding to this whenever something strikes you."
-> — Someone wise
+*Updated whenever I find something worth saving.*
 
 ---
 
-*Updated whenever I find something worth saving.*
+[← Home](/)
