@@ -22,19 +22,19 @@ Replace this with your own intro — who you are, what you care about, and why y
 
 Long form thoughts on life, ideas, and things I'm figuring out.
 
-- [[essays/index|→ Read essays]]
+- [→ Read essays](/essays)
 
 ---
 
 ## Life
 
-- [[now/index|→ What I'm doing now]]
-- [[log/index|→ Life log]]
+- [→ What I'm doing now](/now)
+- [→ Life log](/log)
 
 ---
 
 ## More
 
-- [[about/index|→ About me]]
-- [[bookshelf/index|→ Bookshelf]]
-- [[quotes/index|→ Quotes I love]]
+- [→ About me](/about)
+- [→ Bookshelf](/bookshelf)
+- [→ Quotes I love](/quotes)
