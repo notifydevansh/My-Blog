@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "devanshrana.inz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "everything"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
